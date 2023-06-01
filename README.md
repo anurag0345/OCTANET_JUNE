@@ -5,6 +5,8 @@ This is a modern and responsive travel landing page built with HTML and CSS. It 
 ## Preview
 ![image](https://github.com/anurag0345/OCTANET_JUNE/assets/68471938/e7763f84-4543-4970-8ac3-cbad80e4f0c0)
 
+![image](https://github.com/anurag0345/OCTANET_JUNE/assets/68471938/1f5e77f6-9bc0-4937-8cf2-ffa3445b7bb2)
+
 ## Features
 
 - Responsive layout for optimal viewing on various devices
